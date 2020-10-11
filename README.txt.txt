@@ -1,6 +1,6 @@
 # Hallo Git
 
-ini adalah readme dari sebuah proyeujas
+ini adalah readme dari sebuah proyek
 
 perbaiki!
 
